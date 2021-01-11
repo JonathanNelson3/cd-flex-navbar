@@ -1,0 +1,41 @@
+#cd-navbar {
+    display: flex;
+    height: 100px;
+    background-color: #08a9e2;
+    color: white;
+    font-family: Montserrat, sans-serif;
+    width: 970px;
+    align-items: center;
+}
+#cd-navbar-header {
+    font-size: 15pt;
+    font-family: montserrat, sans-serif;
+    color: white;
+    display: inline-block;
+}
+.cd-navbar-text {
+    font-family: Montserrat, sans-serif;
+    display: inline-block;
+    color: white;
+    text-align: left;
+}
+.cd-navbar-text2 {
+    color: white;
+    text-decoration: none;
+    font-size: 10pt;
+    width: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#cd-img {
+    max-width: 100%; height: auto; object-fit: contain;
+}
+#ul {
+    display: inline-block;
+}
+#cd-navbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 850px;
+}
